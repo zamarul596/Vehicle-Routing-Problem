@@ -656,3 +656,4 @@ def main():
     with col3:
         st.metric("Vehicle Capacity", capacity)
     
+main()
